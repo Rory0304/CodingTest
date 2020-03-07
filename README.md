@@ -1,6 +1,6 @@
 # Programmers
 Algorithms in Programmers
-|SUBJECT|QUESTIONS|
+|SUBJECT|SOLUTION|
 |------|---|
 |STACK/QUEUE| |
 |DFS/BFS| targetNumber.js |
