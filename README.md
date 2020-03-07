@@ -4,3 +4,4 @@ Algorithms in Programmers
 |------|---|
 |STACK/QUEUE| |
 |DFS/BFS| targetNumber.js |
+|SORT| BiggestNumber.js |
