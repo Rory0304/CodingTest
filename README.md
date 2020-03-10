@@ -2,7 +2,8 @@
 Algorithms in Programmers
 |SUBJECT|SOLUTION|
 |------|---|
-|STACK/QUEUE| |
+|Stack/Queue| |
 |DFS/BFS| targetNumber |
-|SORT| BiggestNumber <br> Hindex|
-|HASH| camouflage |
+|Sort| BiggestNumber <br> Hindex|
+|Hash| camouflage |
+|Practice| fibonacci_mod |
