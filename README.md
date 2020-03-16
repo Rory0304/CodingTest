@@ -6,4 +6,4 @@ Algorithms in Programmers
 |DFS/BFS| targetNumber |
 |Sort| BiggestNumber <br> Hindex|
 |Hash| camouflage |
-|Practice| fibonacci_mod <br> World123|
+|Practice| fibonacci_mod <br> World123 <br> minMax|
