@@ -12,3 +12,6 @@ Algorithms in Programmers
 7. [올바른 괄호](https://github.com/Rory0304/Programmers/blob/master/properBracket.js)
 8. [숫자의 표현](https://github.com/Rory0304/Programmers/blob/master/numberExpression.js)
 9. [피보나치 수](https://github.com/Rory0304/Programmers/blob/master/fibonacci_mod.js)
+10. [스킬트리](https://github.com/Rory0304/Programmers/blob/master/skillTree.js) `Summer/Winter Coding`
+11. [다리를 지나는 트럭](https://github.com/Rory0304/Programmers/blob/master/movingTruck.js) `Stack/Queue`
+12. [다음 큰 숫자](https://github.com/Rory0304/Programmers/blob/master/nextBiggerNumber.js)
