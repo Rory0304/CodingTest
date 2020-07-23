@@ -23,6 +23,6 @@ Algorithms in Programmers
 
 10. [스킬트리](https://github.com/Rory0304/Programmers/blob/master/skillTree.js) `Summer/Winter Coding`
 
-11. [다리를 지나는 트럭](https://github.com/Rory0304/Programmers/blob/master/movingTruck.js) `Stack/Queue`
+11. [다리를 지나는 트럭](https://github.com/Rory0304/Programmers/blob/master/movingTruck.js) `Stack/Queue` :pushpin:
 
 12. [다음 큰 숫자](https://github.com/Rory0304/Programmers/blob/master/nextBiggerNumber.js)
