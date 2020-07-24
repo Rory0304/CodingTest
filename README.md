@@ -27,4 +27,4 @@ Algorithms in Programmers
 
 12. [다음 큰 숫자](https://github.com/Rory0304/Programmers/blob/master/nextBiggerNumber.js) `BP`
 
-13. [소수 찾기](]https://github.com/Rory0304/CodingTest/blob/master/findPrime.js) `BP` :pushpin:
+13. [소수 찾기](https://github.com/Rory0304/CodingTest/blob/master/findPrime.js) `BP` :pushpin:
