@@ -25,4 +25,6 @@ Algorithms in Programmers
 
 11. [다리를 지나는 트럭](https://github.com/Rory0304/Programmers/blob/master/movingTruck.js) `Stack/Queue` :pushpin:
 
-12. [다음 큰 숫자](https://github.com/Rory0304/Programmers/blob/master/nextBiggerNumber.js)
+12. [다음 큰 숫자](https://github.com/Rory0304/Programmers/blob/master/nextBiggerNumber.js) `BP`
+
+13. [소수 찾기](]https://github.com/Rory0304/CodingTest/blob/master/findPrime.js) `BP` :pushpin:
