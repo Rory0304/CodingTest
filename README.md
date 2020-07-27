@@ -28,3 +28,7 @@ Algorithms in Programmers
 12. [다음 큰 숫자](https://github.com/Rory0304/Programmers/blob/master/nextBiggerNumber.js) `BP`
 
 13. [소수 찾기](https://github.com/Rory0304/CodingTest/blob/master/findPrime.js) `BP` :pushpin:
+
+14. [최솟값 만들기](https://github.com/Rory0304/CodingTest/blob/master/makeMin.md)
+
+15. [오픈채팅방](https://github.com/Rory0304/CodingTest/blob/master/openChat.js) `2019 KAKAO BLIND RECRUITMENT` :pushpin:
