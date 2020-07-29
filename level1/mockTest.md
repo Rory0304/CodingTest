@@ -1,4 +1,4 @@
-##CODE
+## CODE
 
 ```
 function solution(answers) {
@@ -35,7 +35,7 @@ function solution(answers) {
 }
 ```
 
-##REVIEW
+## REVIEW
 
 `난이도 : 하`
 
