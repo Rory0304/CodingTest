@@ -1,6 +1,10 @@
 # Programmers
 Algorithms in Programmers
 ## Level 1
+
+1. [체육복](https://github.com/Rory0304/CodingTest/blob/master/level1/gymClothes.md) `Greedy` 
+2. [모의고사](https://github.com/Rory0304/CodingTest/blob/master/level1/mockTest.md) `BP`
+
 ## Level 2
 
 1. [타겟 넘버](https://github.com/Rory0304/Programmers/blob/master/targetNumber.js)  `DFS/BFS`
@@ -32,3 +36,5 @@ Algorithms in Programmers
 14. [최솟값 만들기](https://github.com/Rory0304/CodingTest/blob/master/makeMin.md)
 
 15. [오픈채팅방](https://github.com/Rory0304/CodingTest/blob/master/openChat.js) `2019 KAKAO BLIND RECRUITMENT` :pushpin:
+
+16. [큰 수 만들기](https://github.com/Rory0304/CodingTest/blob/master/level1/mockTest.md) `Greedy` :pushpin:
