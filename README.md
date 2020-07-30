@@ -4,6 +4,7 @@ Algorithms in Programmers
 
 1. [체육복](https://github.com/Rory0304/CodingTest/blob/master/level1/gymClothes.md) `Greedy` 
 2. [모의고사](https://github.com/Rory0304/CodingTest/blob/master/level1/mockTest.md) `BP`
+3. [크레인 인형뽑기 게임](https://github.com/Rory0304/CodingTest/blob/master/level1/clawCraneGame.js) `2019 카카오 개발자 겨울 인턴십`
 
 ## Level 2
 
@@ -38,3 +39,5 @@ Algorithms in Programmers
 15. [오픈채팅방](https://github.com/Rory0304/CodingTest/blob/master/openChat.js) `2019 KAKAO BLIND RECRUITMENT` :pushpin:
 
 16. [큰 수 만들기](https://github.com/Rory0304/CodingTest/blob/master/level1/mockTest.md) `Greedy` :pushpin:
+
+17. [튜플](https://github.com/Rory0304/CodingTest/blob/master/level2/tuple.md) `2019 카카오 개발자 겨울 인턴십`
