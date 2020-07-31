@@ -41,3 +41,7 @@ Algorithms in Programmers
 16. [큰 수 만들기](https://github.com/Rory0304/CodingTest/blob/master/level1/mockTest.md) `Greedy` :pushpin:
 
 17. [튜플](https://github.com/Rory0304/CodingTest/blob/master/level2/tuple.md) `2019 카카오 개발자 겨울 인턴십`
+
+### LEVEL 3
+
+1. [베스트 앨범](https://github.com/Rory0304/CodingTest/blob/master/level3/bestAlbum.md) `Hash` :alarm_clock:
