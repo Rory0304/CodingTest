@@ -5,6 +5,7 @@ Algorithms in Programmers
 1. [체육복](https://github.com/Rory0304/CodingTest/blob/master/level1/gymClothes.md) `Greedy` 
 2. [모의고사](https://github.com/Rory0304/CodingTest/blob/master/level1/mockTest.md) `BP`
 3. [크레인 인형뽑기 게임](https://github.com/Rory0304/CodingTest/blob/master/level1/clawCraneGame.js) `2019 카카오 개발자 겨울 인턴십`
+4. [실패율](https://github.com/Rory0304/CodingTest/blob/master/level1/failRate.js) `2019 KAKAO BLIND RECRUITMENT`
 
 ## Level 2
 
