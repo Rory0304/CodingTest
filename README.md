@@ -27,6 +27,7 @@ Algorithms in Programmers
 16. [큰 수 만들기](https://github.com/Rory0304/CodingTest/blob/master/level1/mockTest.md) `Greedy` :pushpin:
 17. [튜플](https://github.com/Rory0304/CodingTest/blob/master/level2/tuple.md) `2019 카카오 개발자 겨울 인턴십`
 18. [구명보트](https://github.com/Rory0304/CodingTest/blob/master/level2/lifeboat.md) `Greedy` 
+19. [문자열 압축](https://github.com/Rory0304/CodingTest/blob/master/level2/stringCompress.md) `2020 KAKAO BLIND RECRUITMENT` :alarm_clock:
 
 ### LEVEL 3
 
