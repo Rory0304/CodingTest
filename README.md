@@ -18,7 +18,7 @@ Algorithms in Programmers
 7. [올바른 괄호](https://github.com/Rory0304/Programmers/blob/master/properBracket.js)
 8. [숫자의 표현](https://github.com/Rory0304/Programmers/blob/master/numberExpression.js)
 9. [피보나치 수](https://github.com/Rory0304/Programmers/blob/master/fibonacci_mod.js)
-10. [스킬트리](https://github.com/Rory0304/Programmers/blob/master/skillTree.js) `Summer/Winter Coding`
+10. [스킬트리](https://github.com/Rory0304/Programmers/blob/master/skillTree.js)
 11. [다리를 지나는 트럭](https://github.com/Rory0304/Programmers/blob/master/movingTruck.js) `Stack/Queue` :pushpin:
 12. [다음 큰 숫자](https://github.com/Rory0304/Programmers/blob/master/nextBiggerNumber.js) `BP`
 13. [소수 찾기](https://github.com/Rory0304/CodingTest/blob/master/findPrime.js) `BP` :pushpin:
@@ -28,6 +28,8 @@ Algorithms in Programmers
 17. [튜플](https://github.com/Rory0304/CodingTest/blob/master/level2/tuple.md) `2019 카카오 개발자 겨울 인턴십`
 18. [구명보트](https://github.com/Rory0304/CodingTest/blob/master/level2/lifeboat.md) `Greedy` 
 19. [문자열 압축](https://github.com/Rory0304/CodingTest/blob/master/level2/stringCompress.md) `2020 KAKAO BLIND RECRUITMENT` :alarm_clock:
+20. [행렬의 곱셈](https://github.com/Rory0304/CodingTest/blob/master/level2/matrixMultiply.md)
+21. [영어 끝말잇기](https://github.com/Rory0304/CodingTest/blob/master/level2/wordChain.js)
 
 ### LEVEL 3
 
