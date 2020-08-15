@@ -31,7 +31,7 @@ Algorithms in Programmers
 20. [행렬의 곱셈](https://github.com/Rory0304/CodingTest/blob/master/level2/matrixMultiply.md)
 21. [영어 끝말잇기](https://github.com/Rory0304/CodingTest/blob/master/level2/wordChain.js)
 
-### LEVEL 3
+## LEVEL 3
 
 1. [베스트 앨범](https://github.com/Rory0304/CodingTest/blob/master/level3/bestAlbum.md) `Hash` :alarm_clock:
 2. [멀리 뛰기](https://github.com/Rory0304/CodingTest/blob/master/level3/longJump.md) :pushpin:
