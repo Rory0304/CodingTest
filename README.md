@@ -9,7 +9,7 @@ Algorithms in Programmers
 
 ## Level 2
 
-1. [타겟 넘버](https://github.com/Rory0304/Programmers/blob/master/targetNumber.js)  `DFS/BFS` 22. [단어 변환](https://github.com/Rory0304/CodingTest/blob/master/level2/wordTransfer.md) `DFS/BFS` :pushpin:
+1. [타겟 넘버](https://github.com/Rory0304/Programmers/blob/master/targetNumber.md)  `DFS/BFS` 22. [단어 변환](https://github.com/Rory0304/CodingTest/blob/master/level2/wordTransfer.md) `DFS/BFS` :pushpin:
 2. [가장 큰 수](https://github.com/Rory0304/Programmers/blob/master/biggestNumber.js) `Sort`
 3. [H-index](https://github.com/Rory0304/Programmers/blob/master/hIndex.js) `Sort`
 4. [위장](https://github.com/Rory0304/Programmers/blob/master/camouflage.js) `Hash`
