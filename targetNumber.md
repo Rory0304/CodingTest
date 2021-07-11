@@ -1,4 +1,11 @@
+## 문제 이해
+
+해당 문제는 그래프 탐색을 하기 때문에 DFS 혹은 BFS 중 선택해서 풀 수 있다.  
+첫 숫자에 대하여 DFS 방식으로 진행하는 것이 직관적이라 생각해서 DFS로 풀었으나, Deque를 활용하여 풀이할 수 있을 것으로 보인다.
+
 ## 문제 풀이 방법
+
+## DFS
 
 ### 종료 조건
 
@@ -35,4 +42,37 @@ function solution(numbers, target) {
     calculation(0,0);
     return answer;
 }
+```
+
+## BFS
+
+## 설명
+
+deque를 활용한다. queue에 들어간 숫자가 없을 때까지 (트리를 너비 우선 방식으로 모두 탐색하였을 때까지) while을 반복한다.  
+
+deque에 들어간 노드를 popleft로 빼서, 해당 순서가 마지막 노드라면 target 값과 일치하는 지 확인 후 answer값을 업데이트한다.  
+만약 마지막 노드가 아니라면 queue에 해당 노드의 너비 우선 탐색한 결과를 넣는다.  
+예를 들어 해당 노드가 1이라면 2(+1한 값)과 0(-1한 값)을 queue에 넣는다.  
+
+## 코드
+```
+from collections import deque
+
+def solution(numbers, target):
+    answer = 0
+    queue = deque()
+    queue.append([numbers[0], 0])
+    queue.append([-1*numbers[0], 0])
+    
+    while queue:
+        num, idx = queue.popleft()
+        idx += 1
+        if idx == len(numbers):
+            if num == target:
+                answer += 1
+        else:
+            queue.append([num + numbers[idx], idx])
+            queue.append([num - numbers[idx], idx])
+            
+    return answer
 ```
