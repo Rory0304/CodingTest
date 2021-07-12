@@ -2,6 +2,48 @@
 [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
 
 ## CODE
+
+## DFS
+```
+def solution(begin, target, words):
+    answer = len(words)
+    stack = []
+    
+    if target not in words:
+        return 0
+        
+    def wordList(node):
+        result = []
+        for i in range(len(words)):
+            word = words[i]
+            count = 0
+            for j in range(len(word)-1, -1, -1):
+                if word[j] != node[j]:
+                    count += 1
+            if count == 1:
+                result.append(words[i])
+                
+        return result
+    
+    def dfs(node, visited, depth):
+        nonlocal answer
+        if node == target:
+            if depth < answer:
+                answer = depth
+        else:
+            visited.append(node)
+            for word in wordList(node):
+                if word not in visited:
+                    dfs(word, visited, depth + 1)
+    
+    dfs(begin, [begin], 0)
+    
+    if answer == -1:
+        return 0
+    return answer
+```
+
+## BFS
 ```
 function solution(begin, target, words) {
     
@@ -42,7 +84,9 @@ function solution(begin, target, words) {
 
 ## REVIEW
 
-너비 우선 탐색 (bfs) 문제이다.
+깊이 우선 탐색 + 너비 우선 탐색 두 방식으로 풀이 가능하다
+
+먼저 BFS의 경우,
 
 ```
           [hit]
